@@ -16,3 +16,5 @@ Außerdem war er schon in die Jahre gekommen. Durch die vielen Zeitsprünge ist 
 Außerdem weiß Marvin wie die Frage zu der Antwort "42" (beantwortet von Deep Thought) lautet, kommt aber nie dazu, diese mitzuteilen.
 
 > Leben, erzähl mir bloß nichts vom Leben.
+
+<img src="https://banner2.cleanpng.com/20180516/trw/kisspng-marvin-the-hitchhiker-s-guide-to-the-galaxy-robby-5afbb083159342.5219726015264441630884.jpg"/>
