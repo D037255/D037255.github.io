@@ -14,3 +14,7 @@ Das feindliche Raumschiff begeht daraufhin Selbstmord.
 Marvin "stirbt" auf dem Planet Preliumtarn, nachdem er Gottes letzte Botschaft gelesen hat, da er durch den Marsch durch die Wüste dorthin ziemlich ramponiert war. 
 Außerdem war er schon in die Jahre gekommen. Durch die vielen Zeitsprünge ist Marvin zum Schluss 37 mal älter als das Universum selbst.
 Außerdem weiß Marvin wie die Frage zu der Antwort "42" (beantwortet von Deep Thought) lautet, kommt aber nie dazu, diese mitzuteilen.
+
+## Lebensmotto
+
+> "Leben, erzähl mir bloß nichts vom Leben."
